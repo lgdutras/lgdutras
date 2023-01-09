@@ -13,16 +13,16 @@
 </head>
 <body>
     <div display='inline-block' margin-bottom = '0'>
-        <img height='200em' align='left' width = '40%' margin-bottom = 0px src='https://github-readme-stats.vercel.app/api?username=lgdutras&theme=graywhite&show_icons=true'></img>
-        <img height='200em' width = '40%' margin-top = 0px src='https://github-readme-stats.vercel.app/api/top-langs/?username=lgdutras&theme=graywhite&show_icons=true'><br>
-    </div>    
+        <img height='250em' align='left' width = '40%' margin-bottom = 0px src='https://github-readme-stats.vercel.app/api?username=lgdutras&theme=graywhite&show_icons=true'></img>
+       <!-- <img height='200em' width = '40%' margin-top = 0px src='https://github-readme-stats.vercel.app/api/top-langs/?username=lgdutras&theme=graywhite&show_icons=true'><br> -->
+    </div>    </br></br>
     <div display='inline-block' margin-top = '0'>    
     <p> 🧰 <b>My Toolbox:</b> </p>
         <img id='PythonICO' witdh = '10%' height = '25em' display='inline' src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
         <img id='oracleICO' witdh = '10%' height = '25em' display='inline' src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
         <img id='MySQLICO' witdh = '50%' height = '27em' display='inline' src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
     </div>
-    <div display='inline-block' margin-top = '0'></br></br>
+    <div display='inline-block' margin-top = '0'></br>
     <p> 📫 <b>How to reach me:</b> </p>
     - E-Mail : gdutrasouza@gmail.com </br>
     - Linked-In : www.linkedin.com/in/lgdutras
